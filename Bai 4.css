@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Bai4 trang 36 </title>
+</head>
+<body>
+<table border="1" width = "500"
+<tr>
+	<th colspan = "2">Name</th>
+	<th rowspan ="2">Point</th>
+</tr>
+<tr>
+	<th>Frist</th>
+	<th>Last</th>
+</tr>
+<tr>
+	<td>Jill</td>
+	<td>Smith</td>
+	<td>50</td>
+</tr>
+<tr>
+	<td>Eve</td>
+	<td>Jackson</td>
+	<td>94</td>
+</tr>
+<tr>
+	<td colspan = "2">Sum</td>
+	<td>144</td>
+</tr>
+</body>
+</html>
